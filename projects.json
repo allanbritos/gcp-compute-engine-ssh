@@ -1,0 +1,26 @@
+{
+  "Project1": {
+    "regions": {
+      "us-east4-a": [
+        "host1.example.com",
+        "host2.example.com"
+      ],
+      "us-west4-a": [
+        "host1.example.com",
+        "host2.example.com"
+      ]
+    }
+  },
+  "Project2": {
+    "regions": {
+      "us-east4-a": [
+        "host1.example.com",
+        "host2.example.com"
+      ],
+      "us-west4-a": [
+        "host1.example.com",
+        "host2.example.com"
+      ]
+    }
+  }
+}
